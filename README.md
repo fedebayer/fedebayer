@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Federico-Bayerqye
+### Hi there 👋, I'm Federico-Bayerque
 ***Analytical and curious developer***
 
 <hr/>
