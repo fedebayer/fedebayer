@@ -30,5 +30,4 @@
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/federicobayerque/)
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=fedebayer&show_icons=true&locale=en&theme=react" alt="fedebayer"/>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fedebayer&theme=react" alt="fedebayer"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=fedebayer&show_icons=true&locale=en&theme=react" alt="fedebayer"/><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fedebayer&theme=react" alt="fedebayer"/></p>
