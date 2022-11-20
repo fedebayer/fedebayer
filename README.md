@@ -7,7 +7,7 @@
 <hr/>
 
 ### :star: Skillset:
-[![My Skills](https://skillicons.dev/icons?i=java,typescript,angular,javascript,php,nodejs,spring,mysql,postgresql,firebase,vuejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,nodejs,expressjs,react,javascript,typescript,spring,mysql,mongodb,postgresql,angular,vuejs)](https://skillicons.dev)
 
 <hr/>
 
@@ -15,9 +15,8 @@
   <summary><b>:computer: &nbsp;About me</b></summary>
   
   - 🔭 I’m currently working on  ***Portfolio***
-  - 🌱 I’m currently learning ***Angular/React***
+  - 🌱 I’m currently learning ***NodeJs/React updates***
   - 👯 I’m looking to collaborate on ***JavaScript***
-  - 🤔 I’m looking for help with ***React***
   - 💬 Ask me about ***Anything***
   - 📫 How to reach me: federicobayerque@gmail.com
   - ⚡ Fun fact: ***A shrimp's heart is in its head***
