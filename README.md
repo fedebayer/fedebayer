@@ -34,4 +34,5 @@
 [![GitHub followers](https://img.shields.io/github/followers/FedeBayer.svg?style=social&label=Follow)](https://github.com/FedeBayer?tab=followers)
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=fedebayer&show_icons=true&locale=en&theme=react" alt="fedebayer"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=fedebayer&theme=react" alt="fedebayer"/></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fedebayer&hide=html,php,yacc,smarty,handlebars&show_icons=true&locale=en&layout=compact&theme=react" />
  </details>
