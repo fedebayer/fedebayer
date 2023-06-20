@@ -7,16 +7,16 @@
 <hr/>
 
 ### :star: Skillset:
-[![My Skills](https://skillicons.dev/icons?i=java,nodejs,expressjs,react,nextjs,javascript,typescript,docker,spring,mysql,mongodb,postgresql,angular,vuejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,postgresql,docker,javascript,typescript,mongodb,nodejs,expressjs,react,nextjs,angular,vuejs)](https://skillicons.dev)
 
 <hr/>
 
 <details close="true">
   <summary><b>:computer: &nbsp;About me</b></summary>
   
-  - 🔭 I’m currently working on  ***Portfolio***
-  - 🌱 I’m currently learning ***NodeJs/React updates***
-  - 👯 I’m looking to collaborate on ***JavaScript***
+  - 🔭 I’m currently working on  ***Proyects***
+  - 🌱 I’m currently learning ***AI***
+  - 👯 I’m looking to collaborate on ***Java/JavaScript***
   - 💬 Ask me about ***Anything***
   - 📫 How to reach me: federicobayerque@gmail.com
   - ⚡ Fun fact: ***A shrimp's heart is in its head***
