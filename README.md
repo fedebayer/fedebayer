@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=FedeBayer%20&fontAlignY=40&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Bayerrz%20&fontAlignY=40&color=gradient)
 
 
 ### Hi there 👋, I'm Federico-Bayerque
