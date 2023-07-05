@@ -7,7 +7,7 @@
 <hr/>
 
 ### :star: Skillset:
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,postgresql,docker,javascript,typescript,mongodb,nodejs,expressjs,react,nextjs,angular,vuejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,postgresql,nodejs,expressjs,docker,javascript,typescript,mongodb,react,nextjs,angular,vuejs)](https://skillicons.dev)
 
 <hr/>
 
